@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "laziza-app",
+    "slug": "laziza-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/laziza.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/laziza.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/laziza.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/laziza.jpg"
+    }
+  }
+}
